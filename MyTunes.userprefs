@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{A3D17E5F-2659-4EAD-87A1-3B7E56E90807}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyTunes.Droid/MainActivity.cs">
+    <Files>
+      <File FileName="MyTunes.Shared/Song.cs" Line="1" Column="1" />
+      <File FileName="MyTunes.Shared/SongLoader.cs" Line="14" Column="3" />
+      <File FileName="MyTunes.Droid/Assets/songs.json" Line="1" Column="1" />
+      <File FileName="MyTunes.Shared/IStreamLoader.cs" Line="9" Column="3" />
+      <File FileName="MyTunes.iOS/StreamLoader.cs" Line="17" Column="3" />
+      <File FileName="MyTunes.Droid/StreamLoader.cs" Line="18" Column="4" />
+      <File FileName="MyTunes.iOS/MyTunesViewController.cs" Line="19" Column="4" />
+      <File FileName="MyTunes.Droid/MainActivity.cs" Line="13" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyTunes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3BAA7331-FA26-4B0C-B3FD-F5EF1064C2FF" />
+</Properties>
